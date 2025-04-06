@@ -11,8 +11,6 @@ My academic and research interests center on:
 *   **Multi-omics Data Integration**
 
 
-### 📊 GitHub Stats & Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huseyincavusbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&layout=compact" alt="Hüseyin Çavuş's GitHub Stats" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincavusbi&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8&count_private=true" alt="Hüseyin Çavuş's Top Languages" height="170px"/>
