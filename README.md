@@ -9,5 +9,16 @@ My academic and research interests center on:
 *   **Machine Learning in Medicine**
 *   **Multi-omics Data Integration**
 
-![Profile Views](https://komarev.com/ghpvc/?username=huseyincavusbi&color=blue)
-<img alt="Visitor Stats" src="https://widgetbite.com/stats/huseyincavusbi"/>
+
+<div align="left">
+	<a href="https://github.com/huseyincavusbi">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseyincavusbi&theme=transparent" alt="GitHub profile details card" />
+	</a>
+</div>
+
+<div align="left">
+	<a href="https://github.com/huseyincavusbi">
+		<img src="https://komarev.com/ghpvc/?username=huseyincavusbi&color=blue&style=flat" alt="Profile Views Counter" />
+	</a>
+</div>
+
